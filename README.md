@@ -1,4 +1,4 @@
-# gesture-based-home-automation
+# Gesture Based Home Automation using Python
 Python program which controls the home appliances based on the number of fingers you show to a camera
 
 Required python libraries - opencv-python, mediapipe
